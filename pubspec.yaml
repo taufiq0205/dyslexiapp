@@ -1,0 +1,65 @@
+name: dyslexiapp
+description: A new Flutter project.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  google_fonts: ^6.1.0
+
+  ## -- STATE MANAGEMENT
+  get: ^4.6.6
+
+  ## -- OnBoarding PACKAGES
+  liquid_swipe: ^3.0.0
+  smooth_page_indicator: ^1.0.0+2
+
+  ## -- OTP TEXT FIELD PACKAGE
+  flutter_otp_text_field: ^1.1.1
+
+  ## -- FIREBASE PACKAGES
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.15.0
+  cloud_firestore: ^4.13.3
+  flutter_facebook_auth: ^6.0.3
+  google_sign_in: ^6.1.6
+
+  ## -- ICON PACKAGES
+  cupertino_icons: ^1.0.2
+  line_awesome_flutter: ^2.0.0
+  flutter_native_splash: ^2.4.0
+
+  ## -- SCAN TEXT FEATURE
+  camera: ^0.11.0+1
+  google_mlkit_text_recognition: ^0.13.0
+  permission_handler: ^11.3.1
+  flutter_tts: ^4.0.2
+
+  ## -- READING QUIZ AND EXERCISE
+  speech_to_text: ^6.6.0
+  animate_do: ^3.3.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo/
+    - assets/images/
+    - assets/images/profile/
+    - assets/images/dashboard/
+    - assets/images/exercise/
+    - assets/images/flashcard/
+    - assets/images/splash_images/
+    - assets/images/welcome_images/
+    - assets/images/forget_password/
+    - assets/images/on_boarding_images/
+    - assets/images/role_selection/
+# Splash screen has been added in the 'splash.yaml' file in main project directory

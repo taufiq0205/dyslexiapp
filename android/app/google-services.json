@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "837248006182",
+    "project_id": "theta-434b4",
+    "storage_bucket": "theta-434b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837248006182:android:b6e1ec2c05549a5a698ee7",
+        "android_client_info": {
+          "package_name": "com.codingwitht.dyslexiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837248006182-pskcl1fdq771l563u6iklphgqsvtnrf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingwitht.dyslexiapp",
+            "certificate_hash": "492e9af3b0371df0ca676815aa3b6b47cab9554c"
+          }
+        },
+        {
+          "client_id": "837248006182-82vde3ig318ligjqbc88d74s066730ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmWCA_dZZqCBxZen0wplnfRp_miQ80Q4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837248006182-82vde3ig318ligjqbc88d74s066730ql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "837248006182-a09m3fvrd9semr9oluhinf2caedc8ken.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codingwitht.loginFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837248006182:android:693e62b2dcf70bdb698ee7",
+        "android_client_info": {
+          "package_name": "com.example.theta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837248006182-m37v5i43lsnq91mi65mvlkcvf3s53maa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theta",
+            "certificate_hash": "492e9af3b0371df0ca676815aa3b6b47cab9554c"
+          }
+        },
+        {
+          "client_id": "837248006182-82vde3ig318ligjqbc88d74s066730ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmWCA_dZZqCBxZen0wplnfRp_miQ80Q4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837248006182-82vde3ig318ligjqbc88d74s066730ql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "837248006182-a09m3fvrd9semr9oluhinf2caedc8ken.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codingwitht.loginFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

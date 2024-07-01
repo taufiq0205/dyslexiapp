@@ -1,0 +1,14 @@
+flutter_native_splash:
+  color: "#A68DF4"
+  color_dark: "#272727"
+  image: assets/images/profile/dyslexiapp-black.png
+  image_dark: assets/images/profile/dyslexiapp-black.png
+
+  android_12:
+    image: assets/images/profile/dyslexiapp-black.png
+    image_dark: assets/images/profile/dyslexiapp-black.png
+
+  web: false
+
+# CREATE - flutter pub run flutter_native_splash:create --path=splash.yaml
+# REMOVE - flutter pub run flutter_native_splash:remove --path=splash.yaml
